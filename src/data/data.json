@@ -1,0 +1,46 @@
+{
+  "phoneNumbers": [
+    {
+      "type": "landline",
+      "number": "74 848 22 22"
+    },
+    {
+      "type": "mobile",
+      "number": "601 880 844"
+    },
+    {
+      "type": "mobile",
+      "number": "604 261 589"
+    },
+    {
+      "type": "shortCode",
+      "number": "19626"
+    },
+    {
+      "type": "shortCode",
+      "number": "19623"
+    }
+  ],
+  "links": [
+    {
+      "page": "Strona Główna",
+      "link": "/"
+    },
+    {
+      "page": "Usługi",
+      "link": "/"
+    },
+    {
+      "page": "Galeria",
+      "link": "/"
+    },
+    {
+      "page": "Aktualności",
+      "link": "/"
+    },
+    {
+      "page": "Kontakt",
+      "link": "/"
+    }
+  ]
+}

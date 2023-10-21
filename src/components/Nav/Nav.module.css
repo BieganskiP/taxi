@@ -1,0 +1,3 @@
+.link:not(:last-child) {
+  border-right: 1px solid #b0e1ff;
+}
